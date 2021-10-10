@@ -10,8 +10,7 @@ void main() {
     'Rebeca Sales|22|Doctor Student|SP',
     'Shadai Sales|20|Merchant Marine|PR',
     'Pedro Yago|18|Student|CE',
-    'Pedro Yago|18|Student|CE',
-    'Gustavo Tito|12|Student',
+    'Gustavo Tito|12|Student|CE',
     'Yerich Sales|43|developer|CE',
   ];
 
@@ -24,6 +23,8 @@ void main() {
   // person with more 20 years
     // Rebeca
     // Shadai
+    // Pedro
+    // Yerich
 
   // 2
   // Developer
@@ -33,6 +34,12 @@ void main() {
   // 3
   // lives in Ceará
     // Felipe
+    // Karol
+    // Maverick 
+    // Daniel 
+    // Pedro
+    // Gustavo 
     // Yerich
+
 
 }
