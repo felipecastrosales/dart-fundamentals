@@ -1,6 +1,6 @@
 import 'package:http/http.dart' as http;
 
-import 'package:dart_fundamentos/04_async/08_repositories/models/city.dart';
+import 'package:dart_fundamentals/04_async/08_repositories/models/city.dart';
 
 class CityRepository {
   Future<City> searchCep() async {

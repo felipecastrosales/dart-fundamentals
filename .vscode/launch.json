@@ -5,8 +5,8 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "dart_fundamentos",
-            "cwd": "dart_fundamentos",
+            "name": "dart_fundamentals",
+            "cwd": "dart_fundamentals",
             "request": "launch",
             "type": "dart"
         }

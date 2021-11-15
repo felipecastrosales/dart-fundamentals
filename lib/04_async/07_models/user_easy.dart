@@ -2,7 +2,7 @@
 
 import 'dart:convert';
 
-import 'package:dart_fundamentos/04_async/07_models/user_types.dart';
+import 'package:dart_fundamentals/04_async/07_models/user_types.dart';
 
 import 'user_types_easy.dart';
 
