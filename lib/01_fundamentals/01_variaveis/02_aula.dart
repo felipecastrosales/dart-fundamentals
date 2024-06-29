@@ -21,17 +21,12 @@ void main() {
 
   // String name = '';
   // ? -> permits null usage
-  String? name = null;
+  String? name;
   String name02;
   name02 = 'atribuindo';
   print(name02.length);
 
   String myName = 'Felipe';
-  // conditional for validate value (name) if is null or different
-
-  if (name != null) {
-    print(name.length);
-  }
 
   print(myName.length);
 
@@ -65,7 +60,6 @@ void main() {
     // never promote to Non-Null value
 
   // Nullables by default:
-    // if has local variables: if has a value atribute, 
+    // if has local variables: if has a value atribute,
     // automatically is promote to Non-Null
-
 }

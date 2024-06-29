@@ -1,4 +1,4 @@
-import 'dart:convert' as convert;
+// import 'dart:convert' as convert;
 
 import 'package:http/http.dart' as http;
 import 'package:http/http.dart';
@@ -44,7 +44,7 @@ Future<void> searchUser() async {
 
   if (response.statusCode == 200) {
     var user = User.fromJson(response.body);
-    print(user);    
+    print(user);
     var user1 = UserEasy.fromJson(response.body);
     print(user1);
   }

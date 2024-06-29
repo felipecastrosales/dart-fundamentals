@@ -39,13 +39,13 @@ class Shirt {
     }
   }
 
-  String _type() {
-    if (logo == 'Nike') {
-      return 'Do not wash in the washing machine';
-    } else {
-      return 'Wash in the washing machine';
-    }
-  }
+  // String _type() {
+  //   if (logo == 'Nike') {
+  //     return 'Do not wash in the washing machine';
+  //   } else {
+  //     return 'Wash in the washing machine';
+  //   }
+  // }
 }
 
 class _Shirt2 {
